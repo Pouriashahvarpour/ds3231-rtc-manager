@@ -173,10 +173,6 @@ Time set to 2024-10-21 10:00:00 from user input.
 - `Setting_time_from_input()`: Sets the RTC time based on a user-provided input.
 - `Setting_time_to_now()`: Sets the RTC time to match the current system time.
 
-### Setting the RTC Time via OS:
-```bash
-python3 main.py SetNow
-```
 
 ## License
 
